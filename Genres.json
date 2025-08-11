@@ -1,0 +1,18 @@
+[
+  {
+    "id": "action-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Kuwima/Genres-Original-ATV/refs/heads/main/Action.WEBP",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
